@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iomidenuw.jessjacobswins.com/sitemap.xml
